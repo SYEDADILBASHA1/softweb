@@ -782,9 +782,10 @@ Publish the website in the given URL.
 
 ![product](https://github.com/SYEDADILBASHA1/softweb/assets/134796157/cd4d9575-a15c-42ee-9cca-467730bf2b1c)
 
-![product](https://github.com/SYEDADILBASHA1/softweb/assets/134796157/49d734f3-47c4-473b-90f8-d706f614d2a1)
+![product](https://github.com/SYEDADILBASHA1/softweb/assets/134796157/bd1c295b-24c1-4866-9db0-bd00f42cdba5)
 
-![product](https://github.com/SYEDADILBASHA1/softweb/assets/134796157/b2e8c0e3-62e2-40a0-a976-e712d1274458)
+![about](https://github.com/SYEDADILBASHA1/softweb/assets/134796157/4ef4288a-4db5-4094-8853-d33c91a142e7)
+
 
 
 ## RESULT:
