@@ -778,6 +778,7 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
+![home1](https://github.com/SYEDADILBASHA1/softweb/assets/134796157/69c1a8a3-dd6d-41b1-a40c-d8a986748f55)
 
 
 ## RESULT:
